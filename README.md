@@ -2,6 +2,8 @@
 
 ## Git Repository Setup
 
+MAKE SURE YOU HAVE ALREADY SET UP YOUR SSH KEY BEFORE STARTING THE PROJECT. IF NOT FOLLOW THE LINK TO DO SO: https://docs.google.com/document/d/1f1Uab98Jfqfj7I9zh2I1FzXtsdbSMB_esOHgx7yddtM/edit
+
 1. Open your Terminal
 
     1. **(Mac)** Open the Terminal app located in `/Applications/Utilities/Terminal.app`
@@ -44,20 +46,6 @@
     ```bash
     git checkout -b YOUR GITHUB USERNAME HERE
     ```
-
-1. Set-up your Git environment
-
-    ```bash
-    ./setup.sh
-    ```
-
-1. Push your branch to GitHub
-
-    ```bash
-    git push -u origin
-    ```
-
-Congratulations, you're ready to work on Horello exercise!
 
 Congratulations on being hired and welcome to the Horello, Inc. team! As
 our latest web development hire, we're relying on you to build the
