@@ -45,6 +45,12 @@
     git checkout -b YOUR GITHUB USERNAME HERE
     ```
 
+1. Set-up your Git environment
+
+    ```bash
+    ./setup.sh
+    ```
+
 1. Push your branch to GitHub
 
     ```bash
